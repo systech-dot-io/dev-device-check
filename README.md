@@ -3,7 +3,7 @@ dev-device-check
 
 Simple tool to check passwords on VoIP endpoints
 
-<b><a href="https://github.com/systech-dot-io/dev-device-check">SPDC</a></b> - Systec Password Device Check 
+<b><a href="https://github.com/systech-dot-io/dev-device-check">SPDC</a></b> - Systech Password Device Check 
 
 <p>This tool if for checking log in credentials for http(s) enabled devices that are open to the public internet.</p>
 <p>Having an open publicly accessible device is a serious issue, that can have huge financial impact on an organization.</p>
