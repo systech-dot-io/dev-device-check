@@ -5,18 +5,10 @@
 package systech.device.check;
 
 /**
- *
  * @author systech.io
  */
-import java.net.URI;
-import java.util.List;
-import java.net.Socket;
 
-import org.apache.http.HttpEntity;
-import org.apache.http.client.methods.HttpUriRequest;
-import org.apache.http.client.methods.RequestBuilder;
-import org.apache.http.cookie.Cookie;
-import org.apache.http.impl.client.BasicCookieStore;
+import java.net.Socket;
 import org.apache.http.auth.AuthScope;
 import org.apache.http.auth.UsernamePasswordCredentials;
 import org.apache.http.client.CredentialsProvider;
@@ -41,7 +33,7 @@ import org.apache.http.protocol.RequestExpectContinue;
 import org.apache.http.protocol.RequestTargetHost;
 import org.apache.http.protocol.RequestUserAgent;
 import org.apache.http.util.EntityUtils;
-import org.apache.http.client.utils.HttpClientUtils;
+
 
 public class SystechDeviceCheck {
 
