@@ -6,7 +6,7 @@ package systech.device.check;
 
 /**
  *
- * @author josh.knox
+ * @author systech.io
  */
 import java.net.URI;
 import java.util.List;
@@ -153,7 +153,7 @@ public class SystechDeviceCheck {
 
         try {
 
- // default hashes for cisco spa112 and 
+            // default hashes for cisco spa112 and 
             String[] targets = {
                 "/login.cgi?enc=0&submit_button=login&user=admin&pwd=498836900e3cb4d343b96f3f1c578f4a",
                 "/login.cgi?enc=0&submit_button=login&user=cisco&pwd=0fa58742e186c8e5ce52ba133f8714cb"};
